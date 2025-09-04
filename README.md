@@ -1,4 +1,4 @@
-# docker-dolibarr-dev 🚀
+# dolibarr-docker-compose-silicon 🚀
 
 A **Docker setup dedicated to development and maintenance of Dolibarr core and modules**, optimized for **Apple Silicon**, using **Nginx + PHP-FPM + MariaDB + Traefik**.  
 Lightweight, performant, and ready for core and module development.
