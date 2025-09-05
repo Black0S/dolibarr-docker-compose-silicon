@@ -123,8 +123,8 @@ All services share `traefikNetwork`, enabling:
 
 | Service        | URL / Port                  | Notes |
 |----------------|----------------------------|-------|
-| Dolibarr       | `**[https://localhost/](https://localhost/)**`        | Via Traefik, HTTPS |
-| Traefik dash   | `[http://localhost:8080/dashboard/](http://localhost:8080/dashboard/)`     | Dashboard |
+| Dolibarr       | `https://localhost/`        | Via Traefik, HTTPS |
+| Traefik dash   | `http://localhost:8080/dashboard/`     | Dashboard |
 | MariaDB        | `localhost:3306`            | Sequel Ace recommended |
 | PHP-FPM        | internal                   | Not directly accessible |
 
